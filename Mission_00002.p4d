@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pix4dmapper>
+	<software>
+		<projectVersion>2.1</projectVersion>
+		 <!-- <captureVersion>iOS-1.2.2(2)</captureVersion> -->
+	</software>
+	<options>
+		<loadTemplate>3d-maps</loadTemplate>
+	</options>
+	<inputs>
+		<images>
+			<image path="DJI_0032.jpg">
+			</image>
+			<image path="DJI_0033.jpg">
+			</image>
+			<image path="DJI_0034.jpg">
+			</image>
+			<image path="DJI_0035.jpg">
+			</image>
+			<image path="DJI_0036.jpg">
+			</image>
+			<image path="DJI_0037.jpg">
+			</image>
+		</images>
+		<processingArea>
+			<geoCoord2D lat="-12.123449" lng="-77.040242"/>
+			<geoCoord2D lat="-12.123449" lng="-77.039835"/>
+			<geoCoord2D lat="-12.123856" lng="-77.039835"/>
+			<geoCoord2D lat="-12.123856" lng="-77.040242"/>
+		</processingArea>
+	</inputs>
+</pix4dmapper>
